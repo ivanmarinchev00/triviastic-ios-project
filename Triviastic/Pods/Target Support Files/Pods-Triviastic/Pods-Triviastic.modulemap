@@ -1,0 +1,6 @@
+framework module Pods_Triviastic {
+  umbrella header "Pods-Triviastic-umbrella.h"
+
+  export *
+  module * { export * }
+}
