@@ -1,12 +1,15 @@
+Project done based on a provided persona and a topic.
+
+Design Thinking Steps:
 
  1. Empathize
-    “I don’t need much but I want to provide the best for my family.” - Relate the application to his personal needs and preferences. How can an app fulfill this desire?
+    “I don’t need much but I want to provide the best for my family.” - Relate the application to the persona's personal needs and preferences. How can an app fulfill this desire?
     “Dennis is not comfortable with technology.“- The application should be as simple as possible. The user should be able to use the app with his minimal knowledge in the field of technology.
     “On an average day, Dennis has very little spare time.”- The application shouldn’t cost much time
     Dennis is a busy man who is not very experienced with technology and needs an app that would help him in the health and education sphere.  
 
 2. Define
-    Based on the provided domains, an application that would serve Dennis’ education by improving his common knowledge. A trivia game app would allow Dennis to take off some stress while learning interesting facts about a plethora of different topics.  There will be different difficulty levels to the game and the questions will be harder in the higher levels. When you choose a wrong answer your phone will vibrate and when you choose the correct one a tune will play. Each correct answer brings the player a certain number of points that will be calculated based on the difficulty of the question. 
+    Based on the provided domains, an application that would serve Dennis’(the persona's) education by improving his common knowledge. A trivia game app would allow Dennis to take off some stress while learning interesting facts about a plethora of different topics.  There will be different difficulty levels to the game and the questions will be harder in the higher levels. When you choose a wrong answer your phone will vibrate and when you choose the correct one a tune will play. Each correct answer brings the player a certain number of points that will be calculated based on the difficulty of the question. 
 
 
 3. Ideatate
